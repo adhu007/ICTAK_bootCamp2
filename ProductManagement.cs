@@ -97,7 +97,7 @@ namespace bootCamp2
             }
             else
             {
-                MessageBox.Show("All fields are *required.");
+                MessageBox.Show("All fields *required valid data.");
             }
         }
 
